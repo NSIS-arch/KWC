@@ -43,7 +43,7 @@ $ pyinstaller --onefile --noconsole kwc.py
 
 # Sample Keys
 
-* [Click to see generated sample keys.](./Sample_Keys.txt)
+* [Click to see generated sample keys.](https://github.com/NSIS-arch/KWC/blob/main/Sample_Keys/Sample_Keys.txt)
 
 # Libraries required for use and compiling:
 
