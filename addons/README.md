@@ -4,9 +4,9 @@ This script is a small script to automate the [`kwc.py`](https://github.com/NSIS
 
 # How to use
 
-(Delete the # sign in front of the operating system you are using from the [`kwc_auto_script.py`]() file when getting started)
+(Delete the # sign in front of the operating system you are using from the [`kwc_auto_script.py`](https://github.com/NSIS-arch/KWC/blob/main/addons/kwc_auto_script.py) file when getting started)
 
-<p1>First move or copy the script file next to the `kwc.py` file.Then open your console and type these commands:</p1>
+<p1>First move or copy the script file next to the [`kwc.py`](https://github.com/NSIS-arch/KWC) file.Then open your console and type these commands:</p1>
 
 ```
 $ python kwc_auto_script.py
